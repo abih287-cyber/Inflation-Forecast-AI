@@ -1,0 +1,15 @@
+gh repo clone abih287-cyber/Inflation-Forecast-AI
+app.py
+main.py
+model.py
+forecasting.py
+insights.py
+.ipynb
+requirements.txt
+model.pkl
+.bin
+.pt 
+.onnx
+.csv
+.env.example
+config.json
